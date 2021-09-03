@@ -1,0 +1,9 @@
+node_modules
+json
+dist
+.git
+*.pyc
+*.log
+.vscode
+AWSPackage
+settings.json
